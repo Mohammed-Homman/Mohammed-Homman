@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mohammed-Homman
+- 👀 I’m a Java enthusiast, and Machine learning learner.
+- 💞️ I’m looking to collaborate on diverse web projects and AI, especially with spring boot + Angular/React.js
+- 📫 How to reach me : mohammed.homman@usmba.ac.ma
+- Welcome !
